@@ -35,7 +35,7 @@ google-chrome --version
 sudo apt-get update
 ```
 ```
-wget https://chromedriver.storage.googleapis.com/100.0.4896.20/chromedriver_linux64.zip
+wget https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_linux64.zip
 ```
 ```
 sudo apt-get install unzip
@@ -226,7 +226,7 @@ fi
 . venv/bin/activate
 pip3 install faker
 pip3 install selenium
-cd /var/lib/jenkins/workspace/PythonSeleniumMoodle/
+cd /var/lib/jenkins/workspace/MoodleAws/
 python3 -m unittest discover --pattern=moodle_tests.py
 deactivate
 ```
