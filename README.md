@@ -132,7 +132,7 @@ sudo apt install python3.9
 ```
 python3 --version
 ```
-```
+
 
 ### Install pip3 package manager
 
@@ -187,7 +187,7 @@ sudo apt-get update
 ```
 sudo apt-get install git -y
 ```
-```
+
 
 ### Open Jenkins —> go to Manage Plugins (check the availability)
 
